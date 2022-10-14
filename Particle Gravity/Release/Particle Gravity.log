@@ -1,0 +1,20 @@
+﻿  Sim.cpp
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(42): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(43): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(222): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(223): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(225): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(242): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(252): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(253): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(303): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(304): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(310): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(311): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(417): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+  Generating code
+  1 of 138 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Particle Gravity.vcxproj -> E:\Dev\C++\Particle Gravity\Release\Particle Gravity.exe

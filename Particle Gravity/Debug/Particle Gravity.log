@@ -1,0 +1,10 @@
+﻿  Sim.cpp
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(214): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(215): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(217): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(234): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(244): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(245): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\dev\c++\particle gravity\particle gravity\src\sim.cpp(349): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Particle Gravity.vcxproj -> E:\Dev\C++\Particle Gravity\Debug\Particle Gravity.exe
